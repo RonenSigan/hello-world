@@ -1,2 +1,4 @@
 # hello-world
-repository for a tutorial 
+Repository for a tutorial 
+## Git 
+Using this read me to learn more about Git
